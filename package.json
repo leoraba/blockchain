@@ -1,0 +1,15 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "author": "Leonardo Rivera <leorivera_88@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
